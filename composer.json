@@ -1,0 +1,18 @@
+{
+    "name": "lam/ams2",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lamnamday",
+            "email": "chinh.nncn@gmail.com"
+        }
+    ],
+    "require": {
+        "phroute/phroute": "^2.2",
+        "eftec/bladeone": "^4.13"
+    }
+}
